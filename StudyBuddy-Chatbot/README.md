@@ -8,8 +8,6 @@ The chatbot provides basic study-related assistance to students. It can respond 
 
 This project was developed as part of the AI-Augmented Workflow self-learning task using GitHub Copilot as an AI-assisted coding tool.
 
-
-
 ## 2. Objectives
 
 The main objectives of this project are:
